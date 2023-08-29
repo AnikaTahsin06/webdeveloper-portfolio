@@ -115,3 +115,20 @@ main {
 .about-info {
   text-align: center;
 }
+
+#what-i-do-description {
+  padding: 10px 150px;
+}
+
+/* skills section */
+.skills-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.skill {
+  border-radius: 5px;
+  background: #fff;
+  border: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  padding: 33px;
+}
